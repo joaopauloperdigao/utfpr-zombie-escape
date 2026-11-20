@@ -116,6 +116,14 @@ Também são utilizados efeitos sonoros para respostas corretas, respostas incor
 
 ---
 
+## 🧮 Banco de Questões
+
+O banco completo contém **50 questões de Análise Combinatória**, divididas entre as cinco fases do jogo, com alternativas, respostas corretas e resoluções matemáticas.
+
+📄 [Consultar o banco completo de questões](BANCO_DE_QUESTOES.md)
+
+---
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **João Paulo Perdigão Thomé Lopes** para a disciplina de **Matemática Discreta (MAT23C)**, ofertada no primeiro período do curso de **Ciência de Dados e Inteligência Artificial** da **Universidade Tecnológica Federal do Paraná — Campus Londrina**, no segundo semestre letivo de 2026.
